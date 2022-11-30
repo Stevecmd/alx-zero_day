@@ -1,2 +1,2 @@
 #!/bin/bash
-git pull origin update_script
+git pull origin master
